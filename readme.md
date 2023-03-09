@@ -1,6 +1,8 @@
 # BICOS APP 
 명함ocr기술을 활용한 고객관리와 일정관리 어플,
 
+(팀프로젝트->개인프로젝트 고도화ing)
+
 # 기술스택,구성
 * Jetpack Compose (UI/UX)
 * Room Database (메모장)
