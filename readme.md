@@ -7,7 +7,6 @@
 * ViewModels
 * Navigation
 * LiveData
-* All CRUD actions
 * Multiple items in list view
 
 ## ScreenShots
