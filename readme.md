@@ -1,5 +1,5 @@
-# Photo Notes 
-A typical notes app with photos built in Jetpack Compose,
+# BICOS APP 
+명함ocr기술을 활용한 고객관리와 일정관리 어플,
 
 # Features
 * Jetpack Compose
@@ -12,6 +12,5 @@ A typical notes app with photos built in Jetpack Compose,
 
 ## ScreenShots
 
-![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/home.png)
-![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/detail.png)
-![alt text](https://github.com/danielmbutler/Photo_Notes/blob/master/res/create.png)
+![alt text](https://github.com/suminpark123/BICOS/blob/master/res/home.jpg)
+![alt text](https://github.com/suminpark123/BICOS/blob/master/res/main.jpg)
